@@ -188,7 +188,6 @@ body {
 	display: none;
 	left: 50%;
 	margin-top: 4px;
-	/*top: 5px;*/
 }
 .linea {
 	display: none;
@@ -217,7 +216,6 @@ body {
 }
 .skills {
 	background-color: var(--madison);
-	/*background-color:  rgb(40,40,40);*/
 	padding-top: 30px;
 	position: relative;
 }
